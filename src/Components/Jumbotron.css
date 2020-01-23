@@ -1,0 +1,6 @@
+.jumbo{
+    background-size: cover;
+    background: url(../Pictures/mac.jpg) no-repeat center center;
+    height: 40vh;
+    width: 100vw;
+}
